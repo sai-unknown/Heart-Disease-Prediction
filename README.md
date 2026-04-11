@@ -78,7 +78,7 @@ E:/Major Project/Dataset/heart_data.csv
 ### 1. Clone or download the project
 
 ```bash
-git clone https://github.com/your-username/heart-disease-prediction.git
+git clone https://github.com/sai-unknown/Heart-Disease-Prediction
 cd heart-disease-prediction
 ```
 
